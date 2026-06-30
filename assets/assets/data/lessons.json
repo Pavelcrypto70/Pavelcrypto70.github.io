@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "module": "Basics",
+    "title": "What is a market?",
+    "subtitle": "Learn how buyers and sellers set price.",
+    "difficulty": "Beginner",
+    "durationMin": 6,
+    "outcome": "Understand how markets move.",
+    "content": "A market is a place where value is exchanged. Price changes when demand and supply shift.",
+    "takeaway": "Price reflects imbalance between buyers and sellers."
+  },
+  {
+    "id": 2,
+    "module": "Basics",
+    "title": "What is a chart?",
+    "subtitle": "See how data becomes a trading tool.",
+    "difficulty": "Beginner",
+    "durationMin": 7,
+    "outcome": "Read simple price charts.",
+    "content": "Charts show historical price action. Traders use them to spot direction, momentum, and structure.",
+    "takeaway": "A chart is a visual record of price behavior."
+  },
+  {
+    "id": 3,
+    "module": "Basics",
+    "title": "Candlestick anatomy",
+    "subtitle": "Open, high, low, and close.",
+    "difficulty": "Beginner",
+    "durationMin": 8,
+    "outcome": "Interpret candle bodies and wicks.",
+    "content": "Each candlestick summarizes one period. The body shows open and close, while wicks show extremes.",
+    "takeaway": "Candles reveal sentiment in each period."
+  },
+  {
+    "id": 4,
+    "module": "Basics",
+    "title": "Trends 101",
+    "subtitle": "Uptrend, downtrend, and sideways movement.",
+    "difficulty": "Beginner",
+    "durationMin": 8,
+    "outcome": "Identify the market direction.",
+    "content": "An uptrend makes higher highs and higher lows. A downtrend makes lower highs and lower lows.",
+    "takeaway": "Trend direction is the foundation of analysis."
+  },
+  {
+    "id": 5,
+    "module": "Basics",
+    "title": "Support and resistance",
+    "subtitle": "Where price often reacts.",
+    "difficulty": "Beginner",
+    "durationMin": 9,
+    "outcome": "Mark key reaction zones.",
+    "content": "Support is an area where buying appears. Resistance is an area where selling appears.",
+    "takeaway": "Important levels often repeat reactions."
+  }
+]
