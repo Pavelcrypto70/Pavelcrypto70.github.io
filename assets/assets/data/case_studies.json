@@ -1,0 +1,77 @@
+[
+  {
+    "id": "covid-crash-2020",
+    "date": "2020-03-12",
+    "title": {
+      "ru": "Чёрный четверг: обвал BTC −50% за день",
+      "en": "Black Thursday: BTC −50% in one day",
+      "pt": "Quinta-feira negra: BTC −50% em um dia",
+      "es": "Jueves negro: BTC −50% en un día"
+    },
+    "summary": {
+      "ru": "Паника по COVID-19 вызвала каскад ликвидаций. Урок: стоп обязателен, плечо опасно в шоке.",
+      "en": "COVID panic caused liquidation cascade. Lesson: stops mandatory; leverage dangerous in shocks.",
+      "pt": "O pânico da COVID causou cascata de liquidação. Lição: paradas obrigatórias; alavancagem perigosa em choques.",
+      "es": "El pánico por el COVID provocó una cascada de liquidaciones. Lección: paradas obligatorias; apalancamiento peligroso en caso de shock."
+    },
+    "lessonIds": [
+      7,
+      18,
+      27
+    ],
+    "source": {
+      "title": "CoinDesk Archive",
+      "url": "https://www.coindesk.com/markets/2020/03/12/"
+    }
+  },
+  {
+    "id": "ftx-2022",
+    "date": "2022-11-08",
+    "title": {
+      "ru": "Крах FTX: контрагентский риск",
+      "en": "FTX collapse: counterparty risk",
+      "pt": "Colapso da FTX: risco de contraparte",
+      "es": "Colapso de FTX: riesgo de contraparte"
+    },
+    "summary": {
+      "ru": "Средства на бирже без due diligence — потеря депозита. Урок: self-custody и диверсификация площадок.",
+      "en": "Exchange funds without due diligence — total loss. Lesson: self-custody and venue diversification.",
+      "pt": "Troque fundos sem a devida diligência — perda total. Lição: autocustódia e diversificação de locais.",
+      "es": "Intercambiar fondos sin la debida diligencia: pérdida total. Lección: autocustodia y diversificación de locales."
+    },
+    "lessonIds": [
+      35,
+      36,
+      7
+    ],
+    "source": {
+      "title": "U.S. SEC FTX Case",
+      "url": "https://www.sec.gov/news/press-release/2022-219"
+    }
+  },
+  {
+    "id": "luna-2022",
+    "date": "2022-05-09",
+    "title": {
+      "ru": "Крах LUNA/UST: риск алгоритмического стейбла",
+      "en": "LUNA/UST crash: algo-stable risk",
+      "pt": "Crash LUNA/UST: risco algo estável",
+      "es": "Accidente LUNA/UST: riesgo algo estable"
+    },
+    "summary": {
+      "ru": "Плечо + вера в «безрисковый» доход → −99% за 48ч. Урок: размер позиции и скепсис к хайпу.",
+      "en": "Leverage + belief in 'risk-free' yield → −99% in 48h. Lesson: position sizing and hype skepticism.",
+      "pt": "Alavancagem + crença em rendimento ‘livre de risco’ → −99% em 48h. Lição: dimensionamento de posição e ceticismo exagerado.",
+      "es": "Apalancamiento + creencia en una rentabilidad 'libre de riesgo' → −99% en 48h. Lección: dimensionamiento de posiciones y escepticismo exagerado."
+    },
+    "lessonIds": [
+      20,
+      31,
+      11
+    ],
+    "source": {
+      "title": "Investopedia LUNA Explainer",
+      "url": "https://www.investopedia.com/terra-luna-cryptocurrency-5217396"
+    }
+  }
+]

@@ -1,0 +1,335 @@
+{
+  "version": "2026.2",
+  "course": {
+    "ru": "Криптотрейдинг: от основ к системной практике",
+    "en": "Crypto Trading: Foundations to Systematic Practice",
+    "pt": "Trading de criptografia: fundamentos para a prática sistemática",
+    "es": "Comercio de criptomonedas: fundamentos de la práctica sistemática"
+  },
+  "institution": {
+    "ru": "Trade Master University Track",
+    "en": "Trade Master University Track",
+    "pt": "Curso Universitário de Mestrado em Comércio",
+    "es": "Pista Universitaria de Maestría en Comercio"
+  },
+  "totalHours": 72,
+  "totalEcts": 8.0,
+  "totalLessons": 58,
+  "finalAssessment": {
+    "ru": "Итоговый тест по 7 модулям (70%+) + 3 принятые домашние работы в Telegram",
+    "en": "Final module tests (70%+) + 3 accepted homework submissions in Telegram",
+    "pt": "Testes finais do módulo (70%+) + 3 trabalhos de casa aceitos no Telegram",
+    "es": "Pruebas finales del módulo (70%+) + 3 envíos de tareas aceptados en Telegram"
+  },
+  "modules": [
+    {
+      "id": "intro",
+      "order": 1,
+      "title": {
+        "ru": "Введение",
+        "en": "Introduction",
+        "pt": "Introduction",
+        "es": "Introduction"
+      },
+      "hours": 8,
+      "ects": 1.0,
+      "lessonIds": [
+        1,
+        2,
+        3,
+        4,
+        48,
+        5,
+        6,
+        7
+      ],
+      "outcomes": {
+        "ru": [
+          "Различать спот, фьючерс и ордера",
+          "Строить поддержку и сопротивление с flip",
+          "Собрать первый сигнал в чат с риском%"
+        ],
+        "en": [
+          "Distinguish spot, futures and order types",
+          "Read candle charts and support/resistance",
+          "Formulate a trade plan before clicking"
+        ],
+        "pt": [
+          "Distinguir tipos de pedidos spot, futuros e de pedidos",
+          "Leia gráficos de velas e suporte/resistência",
+          "Formule um plano de trading antes de clicar"
+        ],
+        "es": [
+          "Distinguir tipos de spot, futuros y órdenes.",
+          "Leer gráficos de velas y soporte/resistencia",
+          "Formule un plan comercial antes de hacer clic"
+        ]
+      }
+    },
+    {
+      "id": "chart",
+      "order": 2,
+      "title": {
+        "ru": "График и структура",
+        "en": "Chart & Structure",
+        "pt": "Gráfico e Estrutura",
+        "es": "Gráfico y estructura"
+      },
+      "hours": 14,
+      "ects": 1.5,
+      "lessonIds": [
+        13,
+        14,
+        15,
+        49,
+        50,
+        16,
+        17,
+        22,
+        26,
+        56,
+        42,
+        45
+      ],
+      "outcomes": {
+        "ru": [
+          "Читать тренд, MTF, ложный пробой",
+          "Использовать сессии, VWAP и уровни дня",
+          "Фильтровать вход по старшему ТФ"
+        ],
+        "en": [
+          "Identify trend, channel and sessions",
+          "Use MA and volume",
+          "Build daily levels"
+        ],
+        "pt": [
+          "Identifique tendências, canais e sessões",
+          "Use MA e volume",
+          "Construa níveis diários"
+        ],
+        "es": [
+          "Identificar tendencia, canal y sesiones.",
+          "Utilice MA y volumen",
+          "Construye niveles diarios"
+        ]
+      }
+    },
+    {
+      "id": "patterns",
+      "order": 3,
+      "title": {
+        "ru": "Паттерны",
+        "en": "Patterns",
+        "pt": "Patterns",
+        "es": "Patterns"
+      },
+      "hours": 12,
+      "ects": 1.0,
+      "lessonIds": [
+        8,
+        9,
+        19,
+        55,
+        53,
+        54,
+        43,
+        46,
+        47
+      ],
+      "outcomes": {
+        "ru": [
+          "Отличать треугольники, клинья, флаги, двойные вершины",
+          "Считать measured move и писать сигнал отмены"
+        ],
+        "en": [
+          "Recognize triangles and reversal patterns",
+          "Calculate measured move targets"
+        ],
+        "pt": [
+          "Reconhecer triângulos e padrões de reversão",
+          "Calcular alvos de movimento medidos"
+        ],
+        "es": [
+          "Reconocer triángulos y patrones de inversión.",
+          "Calcular objetivos de movimiento medidos"
+        ]
+      }
+    },
+    {
+      "id": "strategy",
+      "order": 4,
+      "title": {
+        "ru": "Стратегии",
+        "en": "Strategies",
+        "pt": "Strategies",
+        "es": "Strategies"
+      },
+      "hours": 12,
+      "ects": 1.0,
+      "lessonIds": [
+        10,
+        21,
+        51,
+        23,
+        52,
+        30,
+        32
+      ],
+      "outcomes": {
+        "ru": [
+          "Вести сделку: partial, BE, trail",
+          "Отказывать сетапу по фильтру «не торгую»"
+        ],
+        "en": [
+          "Trade breakouts and pullbacks with a plan",
+          "Run markup marathons without FOMO"
+        ],
+        "pt": [
+          "Negocie rompimentos e retrocessos com um plano",
+          "Execute maratonas de marcação sem FOMO"
+        ],
+        "es": [
+          "Opere rupturas y retrocesos con un plan",
+          "Ejecute maratones de marcado sin FOMO"
+        ]
+      }
+    },
+    {
+      "id": "market",
+      "order": 5,
+      "title": {
+        "ru": "Рынок и макро",
+        "en": "Market & Macro",
+        "pt": "Mercado e Macro",
+        "es": "Mercado y Macroeconomía"
+      },
+      "hours": 10,
+      "ects": 1.0,
+      "lessonIds": [
+        11,
+        12,
+        20,
+        24,
+        25,
+        27,
+        57,
+        34,
+        44
+      ],
+      "outcomes": {
+        "ru": [
+          "Учитывать BTC.D, funding и OI",
+          "Сравнивать силу альта с BTC в сигнале"
+        ],
+        "en": [
+          "Account for BTC.D and news",
+          "Assess listing/delisting and altseason"
+        ],
+        "pt": [
+          "Conta para BTC.D e novidades",
+          "Avaliar listagem/exclusão e temporada alternativa"
+        ],
+        "es": [
+          "Cuenta para BTC.D y novedades",
+          "Evaluar la inclusión/eliminación de la lista y la temporada alternativa"
+        ]
+      }
+    },
+    {
+      "id": "risk",
+      "order": 6,
+      "title": {
+        "ru": "Риск и этика",
+        "en": "Risk & Ethics",
+        "pt": "Risco e Ética",
+        "es": "Riesgo y ética"
+      },
+      "hours": 10,
+      "ects": 1.5,
+      "lessonIds": [
+        7,
+        18,
+        28,
+        31,
+        35,
+        36,
+        39,
+        40
+      ],
+      "outcomes": {
+        "ru": [
+          "Рассчитывать риск 0.5–1% на сделку",
+          "Распознавать скамы и ошибки плеча",
+          "Соблюдать этику и безопасность API/переводов"
+        ],
+        "en": [
+          "Calculate 0.5–1% risk per trade",
+          "Recognize scams and leverage mistakes",
+          "Follow ethics and API/transfer safety"
+        ],
+        "pt": [
+          "Calcule 0,5–1% de risco por trading",
+          "Reconheça fraudes e aproveite erros",
+          "Siga a ética e a segurança da API/transferência"
+        ],
+        "es": [
+          "Calcule entre un 0,5% y un 1% de riesgo por operación",
+          "Reconocer estafas y aprovechar errores",
+          "Siga la ética y la API/seguridad de transferencia"
+        ]
+      }
+    },
+    {
+      "id": "practice",
+      "order": 7,
+      "title": {
+        "ru": "Практика и аттестация",
+        "en": "Practice & Assessment",
+        "pt": "Prática e Avaliação",
+        "es": "Práctica y evaluación"
+      },
+      "hours": 8,
+      "ects": 1.0,
+      "lessonIds": [
+        29,
+        33,
+        58,
+        37,
+        38,
+        41
+      ],
+      "outcomes": {
+        "ru": [
+          "Писать сигнал как трейдер: сетап, числа, invalidation",
+          "Тегировать журнал и разбирать сделки"
+        ],
+        "en": [
+          "Keep a setup-based journal",
+          "Submit homework with chart markup"
+        ],
+        "pt": [
+          "Mantenha um diário baseado em configuração",
+          "Envie a lição de casa com marcação de gráfico"
+        ],
+        "es": [
+          "Mantenga un diario basado en la configuración",
+          "Enviar tarea con marcado de gráfico"
+        ]
+      }
+    }
+  ],
+  "ethicsLessonIds": [
+    7,
+    18,
+    28,
+    35,
+    36,
+    39,
+    40
+  ],
+  "caseStudyIds": [
+    "covid-crash-2020",
+    "ftx-2022",
+    "luna-2022"
+  ]
+}

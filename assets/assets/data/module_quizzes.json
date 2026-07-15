@@ -1,0 +1,159 @@
+[
+  {
+    "moduleId": "intro",
+    "title": {
+      "ru": "Введение",
+      "en": "Introduction",
+      "pt": "Introduction",
+      "es": "Introduction"
+    },
+    "lessonIds": [
+      1,
+      2,
+      3,
+      4,
+      48,
+      5,
+      6,
+      7
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "chart",
+    "title": {
+      "ru": "График и структура",
+      "en": "Chart & Structure",
+      "pt": "Gráfico e Estrutura",
+      "es": "Gráfico y estructura"
+    },
+    "lessonIds": [
+      13,
+      14,
+      15,
+      49,
+      50,
+      16,
+      17,
+      22,
+      26,
+      56,
+      42,
+      45
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "patterns",
+    "title": {
+      "ru": "Паттерны",
+      "en": "Patterns",
+      "pt": "Patterns",
+      "es": "Patterns"
+    },
+    "lessonIds": [
+      8,
+      9,
+      19,
+      55,
+      53,
+      54,
+      43,
+      46,
+      47
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "strategy",
+    "title": {
+      "ru": "Стратегии",
+      "en": "Strategies",
+      "pt": "Strategies",
+      "es": "Strategies"
+    },
+    "lessonIds": [
+      10,
+      21,
+      51,
+      23,
+      52,
+      30,
+      32
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "market",
+    "title": {
+      "ru": "Рынок и макро",
+      "en": "Market & Macro",
+      "pt": "Mercado e Macro",
+      "es": "Mercado y Macroeconomía"
+    },
+    "lessonIds": [
+      11,
+      12,
+      20,
+      24,
+      25,
+      27,
+      57,
+      34,
+      44
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "risk",
+    "title": {
+      "ru": "Риск и этика",
+      "en": "Risk & Ethics",
+      "pt": "Risco e Ética",
+      "es": "Riesgo y ética"
+    },
+    "lessonIds": [
+      7,
+      18,
+      28,
+      31,
+      35,
+      36,
+      39,
+      40
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "practice",
+    "title": {
+      "ru": "Практика и аттестация",
+      "en": "Practice & Assessment",
+      "pt": "Prática e Avaliação",
+      "es": "Práctica y evaluación"
+    },
+    "lessonIds": [
+      29,
+      33,
+      58,
+      37,
+      38,
+      41
+    ],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  }
+]

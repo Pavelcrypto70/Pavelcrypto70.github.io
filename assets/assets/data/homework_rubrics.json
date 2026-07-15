@@ -1,0 +1,41 @@
+{
+  "version": "2026.2",
+  "maxScore": 10,
+  "criteria": [
+    {
+      "id": "topics",
+      "weight": 4,
+      "ru": "Тезисно перечислены ключевые темы урока (3–5 пунктов)",
+      "en": "Key lesson topics listed briefly (3–5 bullet points)",
+      "pt": "Tópicos-chave da lição listados (3–5 itens)",
+      "es": "Temas clave de la lección enumerados brevemente (3 a 5 viñetas)"
+    },
+    {
+      "id": "understanding",
+      "weight": 4,
+      "ru": "Своими словами: как вы это поняли и где примените",
+      "en": "In your words: how you understood it and where you'll apply it",
+      "pt": "Com suas palavras: como entendeu e onde vai aplicar",
+      "es": "En tus palabras: cómo lo entendiste y dónde lo aplicarás"
+    },
+    {
+      "id": "honesty",
+      "weight": 2,
+      "ru": "Честно: что осталось непонятным (можно «пока ничего»)",
+      "en": "Honestly: what is still unclear (or 'nothing yet')",
+      "pt": "Honestamente: o que ainda não ficou claro",
+      "es": "Sinceramente: lo que aún no está claro (o 'nada todavía')"
+    }
+  ],
+  "passScore": 7,
+  "telegram": {
+    "enabled": true,
+    "chatUrl": "https://t.me/trade_master_homework",
+    "instructions": {
+      "ru": "Нажмите «Сдать домашку» — откроется чат Telegram. Отправьте тезисно: что прошли в уроке и как вы это поняли. Без скринов — только текст.",
+      "en": "Tap 'Submit homework' to open Telegram. Send a brief summary: what you covered in the lesson and how you understood it. Text only — no screenshots.",
+      "pt": "Toque em ‘Enviar lição de casa’ para abrir o Telegram. Envie um breve resumo: o que você abordou na lição e como você entendeu. Somente texto – sem capturas de tela.",
+      "es": "Toca \"Enviar tarea\" para abrir Telegram. Envía un breve resumen: lo que cubriste en la lección y cómo lo entendiste. Solo texto, sin capturas de pantalla."
+    }
+  }
+}
