@@ -1,35 +1,35 @@
 {
-  "version": "2026.2",
+  "version": "2026.8.2",
   "course": {
-    "ru": "Криптотрейдинг: от основ к системной практике",
-    "en": "Crypto Trading: Foundations to Systematic Practice",
-    "pt": "Trading de criptografia: fundamentos para a prática sistemática",
-    "es": "Comercio de criptomonedas: fundamentos de la práctica sistemática"
+    "ru": "Трейдинг с нуля: спот, фьючерс, график",
+    "en": "Trading from zero: spot, futures, the chart",
+    "pt": "Trading do zero: spot, futuros, o gráfico",
+    "es": "Trading desde cero: spot, futuros, el gráfico"
   },
   "institution": {
-    "ru": "Trade Master University Track",
-    "en": "Trade Master University Track",
-    "pt": "Curso Universitário de Mestrado em Comércio",
-    "es": "Pista Universitaria de Maestría en Comercio"
+    "ru": "Trade Master",
+    "en": "Trade Master",
+    "pt": "Trade Master",
+    "es": "Trade Master"
   },
   "totalHours": 72,
-  "totalEcts": 8.0,
+  "totalEcts": 9.0,
   "totalLessons": 58,
   "finalAssessment": {
-    "ru": "Итоговый тест по 7 модулям (70%+) + 3 принятые домашние работы в Telegram",
-    "en": "Final module tests (70%+) + 3 accepted homework submissions in Telegram",
-    "pt": "Testes finais do módulo (70%+) + 3 trabalhos de casa aceitos no Telegram",
-    "es": "Pruebas finales del módulo (70%+) + 3 envíos de tareas aceptados en Telegram"
+    "ru": "Тесты модулей + домашки в топике homework Desk Club",
+    "en": "Module tests + homework in the Desk Club homework topic",
+    "pt": "Testes dos módulos + tarefas no tópico homework do Desk Club",
+    "es": "Tests de módulos + tareas en el tema homework de Desk Club"
   },
   "modules": [
     {
-      "id": "intro",
+      "id": "spotfut",
       "order": 1,
       "title": {
-        "ru": "Введение",
-        "en": "Introduction",
-        "pt": "Introduction",
-        "es": "Introduction"
+        "ru": "Спот и фьючерс",
+        "en": "Spot and futures",
+        "pt": "Spot e futuros",
+        "es": "Spot y futuros"
       },
       "hours": 8,
       "ects": 1.0,
@@ -38,31 +38,30 @@
         2,
         3,
         4,
-        48,
         5,
         6,
         7
       ],
       "outcomes": {
         "ru": [
-          "Различать спот, фьючерс и ордера",
-          "Строить поддержку и сопротивление с flip",
-          "Собрать первый сигнал в чат с риском%"
+          "Спот — купил монету за деньги. Монета твоя. Пока не продал — она лежит у тебя.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Distinguish spot, futures and order types",
-          "Read candle charts and support/resistance",
-          "Formulate a trade plan before clicking"
+          "Spot — you bought the coin with money. The coin is yours. Until you sell, it sits with you.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Distinguir tipos de pedidos spot, futuros e de pedidos",
-          "Leia gráficos de velas e suporte/resistência",
-          "Formule um plano de trading antes de clicar"
+          "Spot — você comprou a moeda com dinheiro. A moeda é sua. Enquanto não vender, ela fica com você.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Distinguir tipos de spot, futuros y órdenes.",
-          "Leer gráficos de velas y soporte/resistencia",
-          "Formule un plan comercial antes de hacer clic"
+          "Spot — compraste la moneda con dinero. La moneda es tuya. Hasta que no vendas, está contigo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     },
@@ -70,266 +69,268 @@
       "id": "chart",
       "order": 2,
       "title": {
-        "ru": "График и структура",
-        "en": "Chart & Structure",
-        "pt": "Gráfico e Estrutura",
-        "es": "Gráfico y estructura"
+        "ru": "График",
+        "en": "The chart",
+        "pt": "O gráfico",
+        "es": "El gráfico"
       },
-      "hours": 14,
-      "ects": 1.5,
+      "hours": 8,
+      "ects": 1.0,
       "lessonIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
         13,
-        14,
-        15,
-        49,
-        50,
-        16,
-        17,
-        22,
-        26,
-        56,
-        42,
-        45
+        14
       ],
       "outcomes": {
         "ru": [
-          "Читать тренд, MTF, ложный пробой",
-          "Использовать сессии, VWAP и уровни дня",
-          "Фильтровать вход по старшему ТФ"
+          "График — дневник цены. Вправо — время. Вверх — дороже. Вниз — дешевле.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Identify trend, channel and sessions",
-          "Use MA and volume",
-          "Build daily levels"
+          "The chart is a price diary. Right — time. Up — more expensive. Down — cheaper.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Identifique tendências, canais e sessões",
-          "Use MA e volume",
-          "Construa níveis diários"
+          "O gráfico é o diário do preço. Pra direita — tempo. Pra cima — mais caro. Pra baixo — mais barato.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Identificar tendencia, canal y sesiones.",
-          "Utilice MA y volumen",
-          "Construye niveles diarios"
+          "El gráfico es el diario del precio. A la derecha — tiempo. Arriba — más caro. Abajo — más barato.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "levels",
+      "order": 3,
+      "title": {
+        "ru": "Уровни и тренд",
+        "en": "Levels and trend",
+        "pt": "Níveis e tendência",
+        "es": "Niveles y tendencia"
+      },
+      "hours": 14,
+      "ects": 1.8,
+      "lessonIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "outcomes": {
+        "ru": [
+          "Пол — место, откуда цену уже поднимали. Пока закрытие выше — пол живой.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "The floor is a place they already lifted price from. While the close stays above — the floor is alive.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "O piso é o lugar de onde já levantaram o preço. Enquanto o fechamento fica acima — o piso está vivo.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "El piso es el lugar desde donde ya levantaron el precio. Mientras el cierre quede arriba — el piso está vivo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     },
     {
       "id": "patterns",
-      "order": 3,
+      "order": 4,
       "title": {
         "ru": "Паттерны",
         "en": "Patterns",
-        "pt": "Patterns",
-        "es": "Patterns"
+        "pt": "Padrões",
+        "es": "Patrones"
       },
-      "hours": 12,
-      "ects": 1.0,
+      "hours": 10,
+      "ects": 1.2,
       "lessonIds": [
-        8,
-        9,
-        19,
-        55,
-        53,
-        54,
-        43,
-        46,
-        47
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
       ],
       "outcomes": {
         "ru": [
-          "Отличать треугольники, клинья, флаги, двойные вершины",
-          "Считать measured move и писать сигнал отмены"
+          "Снизу пол плоский. Сверху вершины всё ниже. Давят на пол.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Recognize triangles and reversal patterns",
-          "Calculate measured move targets"
+          "Flat floor underneath. Highs coming in lower on top. They are pressing the floor.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Reconhecer triângulos e padrões de reversão",
-          "Calcular alvos de movimento medidos"
+          "Embaixo o piso plano. Em cima os topos cada vez mais baixos. Estão pressionando o piso.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Reconocer triángulos y patrones de inversión.",
-          "Calcular objetivos de movimiento medidos"
+          "Abajo el piso plano. Arriba los techos cada vez más bajos. Están presionando el piso.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     },
     {
-      "id": "strategy",
-      "order": 4,
+      "id": "trade",
+      "order": 5,
       "title": {
-        "ru": "Стратегии",
-        "en": "Strategies",
-        "pt": "Strategies",
-        "es": "Strategies"
+        "ru": "Сделка",
+        "en": "The trade",
+        "pt": "A operação",
+        "es": "La operación"
       },
       "hours": 12,
-      "ects": 1.0,
+      "ects": 1.5,
       "lessonIds": [
-        10,
-        21,
-        51,
-        23,
-        52,
-        30,
-        32
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
       ],
       "outcomes": {
         "ru": [
-          "Вести сделку: partial, BE, trail",
-          "Отказывать сетапу по фильтру «не торгую»"
+          "До клика три числа: вход, стоп, цель. Нет трёх чисел — нет сделки.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Trade breakouts and pullbacks with a plan",
-          "Run markup marathons without FOMO"
+          "Before the click, three numbers: entry, stop, target. No three numbers — no trade.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Negocie rompimentos e retrocessos com um plano",
-          "Execute maratonas de marcação sem FOMO"
+          "Antes do clique, três números: entrada, stop, alvo. Sem os três — sem operação.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Opere rupturas y retrocesos con un plan",
-          "Ejecute maratones de marcado sin FOMO"
+          "Antes del clic, tres números: entrada, stop, objetivo. Sin los tres — no hay operación.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     },
     {
       "id": "market",
-      "order": 5,
+      "order": 6,
       "title": {
-        "ru": "Рынок и макро",
-        "en": "Market & Macro",
-        "pt": "Mercado e Macro",
-        "es": "Mercado y Macroeconomía"
+        "ru": "Рынок",
+        "en": "The market",
+        "pt": "O mercado",
+        "es": "El mercado"
       },
-      "hours": 10,
+      "hours": 8,
       "ects": 1.0,
       "lessonIds": [
-        11,
-        12,
-        20,
-        24,
-        25,
-        27,
-        57,
-        34,
-        44
+        47,
+        48,
+        49,
+        50,
+        51
       ],
       "outcomes": {
         "ru": [
-          "Учитывать BTC.D, funding и OI",
-          "Сравнивать силу альта с BTC в сигнале"
+          "Стена в стакане — не закон. Её могут убрать за секунду. Смотри цену, не гипноз цифр.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Account for BTC.D and news",
-          "Assess listing/delisting and altseason"
+          "A wall in the book is not a law. They can pull it in a second. Watch price, not the hypnosis of numbers.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Conta para BTC.D e novidades",
-          "Avaliar listagem/exclusão e temporada alternativa"
+          "Parede no livro não é lei. Podem tirar num segundo. Olha o preço, não o hipnose dos números.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Cuenta para BTC.D y novedades",
-          "Evaluar la inclusión/eliminación de la lista y la temporada alternativa"
+          "Una pared en el libro no es ley. La pueden quitar en un segundo. Mira el precio, no la hipnosis de los números.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     },
     {
       "id": "risk",
-      "order": 6,
-      "title": {
-        "ru": "Риск и этика",
-        "en": "Risk & Ethics",
-        "pt": "Risco e Ética",
-        "es": "Riesgo y ética"
-      },
-      "hours": 10,
-      "ects": 1.5,
-      "lessonIds": [
-        7,
-        18,
-        28,
-        31,
-        35,
-        36,
-        39,
-        40
-      ],
-      "outcomes": {
-        "ru": [
-          "Рассчитывать риск 0.5–1% на сделку",
-          "Распознавать скамы и ошибки плеча",
-          "Соблюдать этику и безопасность API/переводов"
-        ],
-        "en": [
-          "Calculate 0.5–1% risk per trade",
-          "Recognize scams and leverage mistakes",
-          "Follow ethics and API/transfer safety"
-        ],
-        "pt": [
-          "Calcule 0,5–1% de risco por trading",
-          "Reconheça fraudes e aproveite erros",
-          "Siga a ética e a segurança da API/transferência"
-        ],
-        "es": [
-          "Calcule entre un 0,5% y un 1% de riesgo por operación",
-          "Reconocer estafas y aprovechar errores",
-          "Siga la ética y la API/seguridad de transferencia"
-        ]
-      }
-    },
-    {
-      "id": "practice",
       "order": 7,
       "title": {
-        "ru": "Практика и аттестация",
-        "en": "Practice & Assessment",
-        "pt": "Prática e Avaliação",
-        "es": "Práctica y evaluación"
+        "ru": "Риск и практика",
+        "en": "Risk and practice",
+        "pt": "Risco e prática",
+        "es": "Riesgo y práctica"
       },
-      "hours": 8,
-      "ects": 1.0,
+      "hours": 12,
+      "ects": 1.5,
       "lessonIds": [
-        29,
-        33,
-        58,
-        37,
-        38,
-        41
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
       ],
       "outcomes": {
         "ru": [
-          "Писать сигнал как трейдер: сетап, числа, invalidation",
-          "Тегировать журнал и разбирать сделки"
+          "Если уже читаешь график и идёшь на фьючерс: isolated и размер из риска 0.5–1%. Большое плечо углубляет яму.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
         ],
         "en": [
-          "Keep a setup-based journal",
-          "Submit homework with chart markup"
+          "If you already read the chart and you go to futures: isolated and size from 0.5–1% risk. Fat leverage deepens the hole.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
         ],
         "pt": [
-          "Mantenha um diário baseado em configuração",
-          "Envie a lição de casa com marcação de gráfico"
+          "Se você já lê o gráfico e vai pro futuros: isolated e tamanho a partir de 0,5–1% de risco. Alavancagem gorda aprofunda o buraco.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
         ],
         "es": [
-          "Mantenga un diario basado en la configuración",
-          "Enviar tarea con marcado de gráfico"
+          "Si ya lees el gráfico y vas a futuros: isolated y tamaño desde 0,5–1% de riesgo. El apalancamiento gordo profundiza el hoyo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
         ]
       }
     }
-  ],
-  "ethicsLessonIds": [
-    7,
-    18,
-    28,
-    35,
-    36,
-    39,
-    40
-  ],
-  "caseStudyIds": [
-    "covid-crash-2020",
-    "ftx-2022",
-    "luna-2022"
   ]
 }

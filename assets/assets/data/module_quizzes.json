@@ -1,48 +1,39 @@
 [
   {
-    "moduleId": "intro",
+    "moduleId": "spotfut",
     "title": {
-      "ru": "Введение",
-      "en": "Introduction",
-      "pt": "Introduction",
-      "es": "Introduction"
+      "ru": "Спот и фьючерс",
+      "en": "Spot and futures",
+      "pt": "Spot e futuros",
+      "es": "Spot y futuros"
     },
-    "lessonIds": [
-      1,
-      2,
-      3,
-      4,
-      48,
-      5,
-      6,
-      7
-    ],
+    "lessonIds": [1, 2, 3, 4, 5, 6, 7],
     "passPercent": 70,
-    "questionCount": 10,
-    "timeMin": 15
+    "questionCount": 8,
+    "timeMin": 12
   },
   {
     "moduleId": "chart",
     "title": {
-      "ru": "График и структура",
-      "en": "Chart & Structure",
-      "pt": "Gráfico e Estrutura",
-      "es": "Gráfico y estructura"
+      "ru": "График",
+      "en": "The chart",
+      "pt": "O gráfico",
+      "es": "El gráfico"
     },
-    "lessonIds": [
-      13,
-      14,
-      15,
-      49,
-      50,
-      16,
-      17,
-      22,
-      26,
-      56,
-      42,
-      45
-    ],
+    "lessonIds": [8, 9, 10, 11, 12, 13, 14],
+    "passPercent": 70,
+    "questionCount": 8,
+    "timeMin": 12
+  },
+  {
+    "moduleId": "levels",
+    "title": {
+      "ru": "Уровни и тренд",
+      "en": "Levels and trend",
+      "pt": "Níveis e tendência",
+      "es": "Niveles y tendencia"
+    },
+    "lessonIds": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
     "passPercent": 70,
     "questionCount": 10,
     "timeMin": 15
@@ -52,41 +43,23 @@
     "title": {
       "ru": "Паттерны",
       "en": "Patterns",
-      "pt": "Patterns",
-      "es": "Patterns"
+      "pt": "Padrões",
+      "es": "Patrones"
     },
-    "lessonIds": [
-      8,
-      9,
-      19,
-      55,
-      53,
-      54,
-      43,
-      46,
-      47
-    ],
+    "lessonIds": [28, 29, 30, 31, 32, 33, 34, 35, 36],
     "passPercent": 70,
     "questionCount": 10,
     "timeMin": 15
   },
   {
-    "moduleId": "strategy",
+    "moduleId": "trade",
     "title": {
-      "ru": "Стратегии",
-      "en": "Strategies",
-      "pt": "Strategies",
-      "es": "Strategies"
+      "ru": "Сделка",
+      "en": "The trade",
+      "pt": "A operação",
+      "es": "La operación"
     },
-    "lessonIds": [
-      10,
-      21,
-      51,
-      23,
-      52,
-      30,
-      32
-    ],
+    "lessonIds": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
     "passPercent": 70,
     "questionCount": 10,
     "timeMin": 15
@@ -94,66 +67,27 @@
   {
     "moduleId": "market",
     "title": {
-      "ru": "Рынок и макро",
-      "en": "Market & Macro",
-      "pt": "Mercado e Macro",
-      "es": "Mercado y Macroeconomía"
+      "ru": "Рынок",
+      "en": "The market",
+      "pt": "O mercado",
+      "es": "El mercado"
     },
-    "lessonIds": [
-      11,
-      12,
-      20,
-      24,
-      25,
-      27,
-      57,
-      34,
-      44
-    ],
+    "lessonIds": [47, 48, 49, 50, 51],
     "passPercent": 70,
-    "questionCount": 10,
-    "timeMin": 15
+    "questionCount": 8,
+    "timeMin": 12
   },
   {
     "moduleId": "risk",
     "title": {
-      "ru": "Риск и этика",
-      "en": "Risk & Ethics",
-      "pt": "Risco e Ética",
-      "es": "Riesgo y ética"
+      "ru": "Риск и практика",
+      "en": "Risk and practice",
+      "pt": "Risco e prática",
+      "es": "Riesgo y práctica"
     },
-    "lessonIds": [
-      7,
-      18,
-      28,
-      31,
-      35,
-      36,
-      39,
-      40
-    ],
+    "lessonIds": [52, 53, 54, 55, 56, 57, 58],
     "passPercent": 70,
-    "questionCount": 10,
-    "timeMin": 15
-  },
-  {
-    "moduleId": "practice",
-    "title": {
-      "ru": "Практика и аттестация",
-      "en": "Practice & Assessment",
-      "pt": "Prática e Avaliação",
-      "es": "Práctica y evaluación"
-    },
-    "lessonIds": [
-      29,
-      33,
-      58,
-      37,
-      38,
-      41
-    ],
-    "passPercent": 70,
-    "questionCount": 10,
-    "timeMin": 15
+    "questionCount": 8,
+    "timeMin": 12
   }
 ]
