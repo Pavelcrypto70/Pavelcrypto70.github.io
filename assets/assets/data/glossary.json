@@ -1,0 +1,212 @@
+[
+  {
+    "term": {
+      "ru": "Спот",
+      "en": "Spot",
+      "pt": "Spot",
+      "es": "Spot"
+    },
+    "def": {
+      "ru": "Покупка актива на баланс без плеча.",
+      "en": "Buying the asset on balance without leverage.",
+      "pt": "Comprar o ativo no saldo sem alavancagem.",
+      "es": "Comprar el activo a saldo sin apalancamiento."
+    }
+  },
+  {
+    "term": {
+      "ru": "Фьючерс",
+      "en": "Futures",
+      "pt": "Futures",
+      "es": "Futures"
+    },
+    "def": {
+      "ru": "Контракт с плечом, возможен шорт и ликвидация.",
+      "en": "Leveraged contract; shorting and liquidation possible.",
+      "pt": "Contrato alavancado; possível venda a descoberto e liquidação.",
+      "es": "Contrato apalancado; Posibilidad de venta en corto y liquidación."
+    }
+  },
+  {
+    "term": {
+      "ru": "Поддержка",
+      "en": "Support",
+      "pt": "Support",
+      "es": "Support"
+    },
+    "def": {
+      "ru": "Уровень, где цена неоднократно отскакивала вверх.",
+      "en": "Level where price bounced up repeatedly.",
+      "pt": "Nível onde o preço subiu repetidamente.",
+      "es": "Nivel en el que el precio rebotó repetidamente."
+    }
+  },
+  {
+    "term": {
+      "ru": "Сопротивление",
+      "en": "Resistance",
+      "pt": "Resistance",
+      "es": "Resistance"
+    },
+    "def": {
+      "ru": "Уровень, где продавцы останавливали рост.",
+      "en": "Level where sellers halted the rise.",
+      "pt": "Nível onde os vendedores interromperam a alta.",
+      "es": "Nivel en el que los vendedores detuvieron la subida."
+    }
+  },
+  {
+    "term": {
+      "ru": "Стоп-лосс",
+      "en": "Stop-loss",
+      "pt": "Stop-loss",
+      "es": "Stop-loss"
+    },
+    "def": {
+      "ru": "Цена выхода при неверном сценарии.",
+      "en": "Exit price when the scenario is wrong.",
+      "pt": "Preço de saída quando o cenário está errado.",
+      "es": "Precio de salida cuando el escenario es incorrecto."
+    }
+  },
+  {
+    "term": {
+      "ru": "R:R",
+      "en": "R:R",
+      "pt": "R:R",
+      "es": "R:R"
+    },
+    "def": {
+      "ru": "Соотношение риска к прибыли (1:2 = риск $1, цель $2).",
+      "en": "Risk-to-reward ratio (1:2 = risk $1, target $2).",
+      "pt": "Relação risco-recompensa (1:2 = risco $1, meta $2).",
+      "es": "Relación riesgo-recompensa (1:2 = riesgo 1 dólar, objetivo 2 dólares)."
+    }
+  },
+  {
+    "term": {
+      "ru": "Funding",
+      "en": "Funding",
+      "pt": "Funding",
+      "es": "Funding"
+    },
+    "def": {
+      "ru": "Периодический платёж между лонгами и шортами на perpetual.",
+      "en": "Periodic payment between longs and shorts on perpetuals.",
+      "pt": "Pagamento periódico entre posições compradas e vendidas em perpétuos.",
+      "es": "Pago periódico entre posiciones largas y cortas en perpetuas."
+    }
+  },
+  {
+    "term": {
+      "ru": "BTC.D",
+      "en": "BTC.D",
+      "pt": "BTC.D",
+      "es": "BTC.D"
+    },
+    "def": {
+      "ru": "Доля капитализации BTC — индикатор ротации в альты.",
+      "en": "BTC market cap dominance — alt rotation indicator.",
+      "pt": "Dominância da capitalização de mercado do BTC – indicador de rotação alternativa.",
+      "es": "Dominio de la capitalización de mercado de BTC: indicador de rotación alternativa."
+    }
+  },
+  {
+    "term": {
+      "ru": "Ликвидация",
+      "en": "Liquidation",
+      "pt": "Liquidation",
+      "es": "Liquidation"
+    },
+    "def": {
+      "ru": "Принудительное закрытие позиции при нехватке маржи.",
+      "en": "Forced position close when margin is insufficient.",
+      "pt": "Fechamento forçado da posição quando a margem é insuficiente.",
+      "es": "Cierre de posición forzado cuando el margen es insuficiente."
+    }
+  },
+  {
+    "term": {
+      "ru": "Ложный пробой",
+      "en": "False breakout",
+      "pt": "Falso rompimento",
+      "es": "falsa ruptura"
+    },
+    "def": {
+      "ru": "Выход за уровень с быстрым возвратом — часто ловушка.",
+      "en": "Brief break beyond level then reversal — often a trap.",
+      "pt": "Breve quebra além do nível e depois reversão – muitas vezes uma armadilha.",
+      "es": "Breve ruptura más allá del nivel y luego reversión: a menudo una trampa."
+    }
+  },
+  {
+    "term": {
+      "ru": "HH / HL",
+      "en": "HH / HL",
+      "pt": "HH/HL",
+      "es": "HH/HL"
+    },
+    "def": {
+      "ru": "Higher High / Higher Low — признаки восходящего тренда.",
+      "en": "Higher High / Higher Low — uptrend structure.",
+      "pt": "Higher High / Higher Low — estrutura de tendência de alta.",
+      "es": "Máximo más alto / Mínimo más alto: estructura de tendencia alcista."
+    }
+  },
+  {
+    "term": {
+      "ru": "LH / LL",
+      "en": "LH / LL",
+      "pt": "LH/LL",
+      "es": "LH/LL"
+    },
+    "def": {
+      "ru": "Lower High / Lower Low — нисходящий тренд.",
+      "en": "Lower High / Lower Low — downtrend structure.",
+      "pt": "Lower High / Lower Low — estrutura de tendência de baixa.",
+      "es": "Máximo Inferior / Mínimo Inferior: estructura de tendencia bajista."
+    }
+  },
+  {
+    "term": {
+      "ru": "ATR",
+      "en": "ATR",
+      "pt": "ATR",
+      "es": "ATR"
+    },
+    "def": {
+      "ru": "Средний истинный диапазон — мера волатильности.",
+      "en": "Average True Range — volatility measure.",
+      "pt": "Average True Range — medida de volatilidade.",
+      "es": "Rango verdadero promedio: medida de volatilidad."
+    }
+  },
+  {
+    "term": {
+      "ru": "Спуфинг",
+      "en": "Spoofing",
+      "pt": "Spoofing",
+      "es": "Spoofing"
+    },
+    "def": {
+      "ru": "Крупные фейковые заявки в стакане для манипуляции.",
+      "en": "Large fake orders in the book to manipulate price.",
+      "pt": "Grandes pedidos falsos no livro para manipular preços.",
+      "es": "Grandes pedidos falsos en el libro para manipular el precio."
+    }
+  },
+  {
+    "term": {
+      "ru": "FOMO",
+      "en": "FOMO",
+      "pt": "FOMO",
+      "es": "FOMO"
+    },
+    "def": {
+      "ru": "Страх упустить — эмоциональный вход без плана.",
+      "en": "Fear of missing out — emotional entry without a plan.",
+      "pt": "Medo de perder – entrada emocional sem plano.",
+      "es": "Miedo a perderse algo: entrada emocional sin un plan."
+    }
+  }
+]

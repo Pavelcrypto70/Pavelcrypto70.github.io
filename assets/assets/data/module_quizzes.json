@@ -1,0 +1,93 @@
+[
+  {
+    "moduleId": "spotfut",
+    "title": {
+      "ru": "Спот и фьючерс",
+      "en": "Spot and futures",
+      "pt": "Spot e futuros",
+      "es": "Spot y futuros"
+    },
+    "lessonIds": [1, 2, 3, 4, 5, 6, 7],
+    "passPercent": 70,
+    "questionCount": 8,
+    "timeMin": 12
+  },
+  {
+    "moduleId": "chart",
+    "title": {
+      "ru": "График",
+      "en": "The chart",
+      "pt": "O gráfico",
+      "es": "El gráfico"
+    },
+    "lessonIds": [8, 9, 10, 11, 12, 13, 14],
+    "passPercent": 70,
+    "questionCount": 8,
+    "timeMin": 12
+  },
+  {
+    "moduleId": "levels",
+    "title": {
+      "ru": "Уровни и тренд",
+      "en": "Levels and trend",
+      "pt": "Níveis e tendência",
+      "es": "Niveles y tendencia"
+    },
+    "lessonIds": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "patterns",
+    "title": {
+      "ru": "Паттерны",
+      "en": "Patterns",
+      "pt": "Padrões",
+      "es": "Patrones"
+    },
+    "lessonIds": [28, 29, 30, 31, 32, 33, 34, 35, 36],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "trade",
+    "title": {
+      "ru": "Сделка",
+      "en": "The trade",
+      "pt": "A operação",
+      "es": "La operación"
+    },
+    "lessonIds": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+    "passPercent": 70,
+    "questionCount": 10,
+    "timeMin": 15
+  },
+  {
+    "moduleId": "market",
+    "title": {
+      "ru": "Рынок",
+      "en": "The market",
+      "pt": "O mercado",
+      "es": "El mercado"
+    },
+    "lessonIds": [47, 48, 49, 50, 51],
+    "passPercent": 70,
+    "questionCount": 8,
+    "timeMin": 12
+  },
+  {
+    "moduleId": "risk",
+    "title": {
+      "ru": "Риск и практика",
+      "en": "Risk and practice",
+      "pt": "Risco e prática",
+      "es": "Riesgo y práctica"
+    },
+    "lessonIds": [52, 53, 54, 55, 56, 57, 58],
+    "passPercent": 70,
+    "questionCount": 8,
+    "timeMin": 12
+  }
+]

@@ -1,0 +1,336 @@
+{
+  "version": "2026.8.2",
+  "course": {
+    "ru": "Трейдинг с нуля: спот, фьючерс, график",
+    "en": "Trading from zero: spot, futures, the chart",
+    "pt": "Trading do zero: spot, futuros, o gráfico",
+    "es": "Trading desde cero: spot, futuros, el gráfico"
+  },
+  "institution": {
+    "ru": "Trade Master",
+    "en": "Trade Master",
+    "pt": "Trade Master",
+    "es": "Trade Master"
+  },
+  "totalHours": 72,
+  "totalEcts": 9.0,
+  "totalLessons": 58,
+  "finalAssessment": {
+    "ru": "Тесты модулей + домашки в топике homework Desk Club",
+    "en": "Module tests + homework in the Desk Club homework topic",
+    "pt": "Testes dos módulos + tarefas no tópico homework do Desk Club",
+    "es": "Tests de módulos + tareas en el tema homework de Desk Club"
+  },
+  "modules": [
+    {
+      "id": "spotfut",
+      "order": 1,
+      "title": {
+        "ru": "Спот и фьючерс",
+        "en": "Spot and futures",
+        "pt": "Spot e futuros",
+        "es": "Spot y futuros"
+      },
+      "hours": 8,
+      "ects": 1.0,
+      "lessonIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "outcomes": {
+        "ru": [
+          "Спот — купил монету за деньги. Монета твоя. Пока не продал — она лежит у тебя.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "Spot — you bought the coin with money. The coin is yours. Until you sell, it sits with you.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "Spot — você comprou a moeda com dinheiro. A moeda é sua. Enquanto não vender, ela fica com você.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "Spot — compraste la moneda con dinero. La moneda es tuya. Hasta que no vendas, está contigo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "chart",
+      "order": 2,
+      "title": {
+        "ru": "График",
+        "en": "The chart",
+        "pt": "O gráfico",
+        "es": "El gráfico"
+      },
+      "hours": 8,
+      "ects": 1.0,
+      "lessonIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "outcomes": {
+        "ru": [
+          "График — дневник цены. Вправо — время. Вверх — дороже. Вниз — дешевле.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "The chart is a price diary. Right — time. Up — more expensive. Down — cheaper.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "O gráfico é o diário do preço. Pra direita — tempo. Pra cima — mais caro. Pra baixo — mais barato.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "El gráfico es el diario del precio. A la derecha — tiempo. Arriba — más caro. Abajo — más barato.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "levels",
+      "order": 3,
+      "title": {
+        "ru": "Уровни и тренд",
+        "en": "Levels and trend",
+        "pt": "Níveis e tendência",
+        "es": "Niveles y tendencia"
+      },
+      "hours": 14,
+      "ects": 1.8,
+      "lessonIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "outcomes": {
+        "ru": [
+          "Пол — место, откуда цену уже поднимали. Пока закрытие выше — пол живой.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "The floor is a place they already lifted price from. While the close stays above — the floor is alive.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "O piso é o lugar de onde já levantaram o preço. Enquanto o fechamento fica acima — o piso está vivo.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "El piso es el lugar desde donde ya levantaron el precio. Mientras el cierre quede arriba — el piso está vivo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "patterns",
+      "order": 4,
+      "title": {
+        "ru": "Паттерны",
+        "en": "Patterns",
+        "pt": "Padrões",
+        "es": "Patrones"
+      },
+      "hours": 10,
+      "ects": 1.2,
+      "lessonIds": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "outcomes": {
+        "ru": [
+          "Снизу пол плоский. Сверху вершины всё ниже. Давят на пол.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "Flat floor underneath. Highs coming in lower on top. They are pressing the floor.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "Embaixo o piso plano. Em cima os topos cada vez mais baixos. Estão pressionando o piso.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "Abajo el piso plano. Arriba los techos cada vez más bajos. Están presionando el piso.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "trade",
+      "order": 5,
+      "title": {
+        "ru": "Сделка",
+        "en": "The trade",
+        "pt": "A operação",
+        "es": "La operación"
+      },
+      "hours": 12,
+      "ects": 1.5,
+      "lessonIds": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "outcomes": {
+        "ru": [
+          "До клика три числа: вход, стоп, цель. Нет трёх чисел — нет сделки.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "Before the click, three numbers: entry, stop, target. No three numbers — no trade.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "Antes do clique, três números: entrada, stop, alvo. Sem os três — sem operação.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "Antes del clic, tres números: entrada, stop, objetivo. Sin los tres — no hay operación.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "market",
+      "order": 6,
+      "title": {
+        "ru": "Рынок",
+        "en": "The market",
+        "pt": "O mercado",
+        "es": "El mercado"
+      },
+      "hours": 8,
+      "ects": 1.0,
+      "lessonIds": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "outcomes": {
+        "ru": [
+          "Стена в стакане — не закон. Её могут убрать за секунду. Смотри цену, не гипноз цифр.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "A wall in the book is not a law. They can pull it in a second. Watch price, not the hypnosis of numbers.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "Parede no livro não é lei. Podem tirar num segundo. Olha o preço, não o hipnose dos números.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "Una pared en el libro no es ley. La pueden quitar en un segundo. Mira el precio, no la hipnosis de los números.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    },
+    {
+      "id": "risk",
+      "order": 7,
+      "title": {
+        "ru": "Риск и практика",
+        "en": "Risk and practice",
+        "pt": "Risco e prática",
+        "es": "Riesgo y práctica"
+      },
+      "hours": 12,
+      "ects": 1.5,
+      "lessonIds": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "outcomes": {
+        "ru": [
+          "Если уже читаешь график и идёшь на фьючерс: isolated и размер из риска 0.5–1%. Большое плечо углубляет яму.",
+          "Домашка в топик homework Desk Club",
+          "Одной фразой после урока"
+        ],
+        "en": [
+          "If you already read the chart and you go to futures: isolated and size from 0.5–1% risk. Fat leverage deepens the hole.",
+          "Homework in the Desk Club homework topic",
+          "One sentence after the lesson"
+        ],
+        "pt": [
+          "Se você já lê o gráfico e vai pro futuros: isolated e tamanho a partir de 0,5–1% de risco. Alavancagem gorda aprofunda o buraco.",
+          "Tarefa no tópico homework do Desk Club",
+          "Uma frase depois da aula"
+        ],
+        "es": [
+          "Si ya lees el gráfico y vas a futuros: isolated y tamaño desde 0,5–1% de riesgo. El apalancamiento gordo profundiza el hoyo.",
+          "Tarea en el tema homework de Desk Club",
+          "Una frase después de la lección"
+        ]
+      }
+    }
+  ]
+}
