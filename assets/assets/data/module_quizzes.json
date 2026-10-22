@@ -1,0 +1,172 @@
+[
+ {
+  "moduleId": "basics",
+  "title": {
+   "ru": "Основы",
+   "en": "Basics",
+   "pt": "Básico",
+   "es": "Básico"
+  },
+  "lessonIds": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 15
+ },
+ {
+  "moduleId": "first_trade",
+  "title": {
+   "ru": "Первая учебная сделка",
+   "en": "First practice trade",
+   "pt": "Primeira operação de treino",
+   "es": "Primera operación de práctica"
+  },
+  "lessonIds": [
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 12
+ },
+ {
+  "moduleId": "trend_levels",
+  "title": {
+   "ru": "Тренд и уровни",
+   "en": "Trend and levels",
+   "pt": "Tendência e níveis",
+   "es": "Tendencia y niveles"
+  },
+  "lessonIds": [
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 15
+ },
+ {
+  "moduleId": "candles_volume",
+  "title": {
+   "ru": "Свечи, объём, каналы",
+   "en": "Candles, volume, channels",
+   "pt": "Velas, volume, canais",
+   "es": "Velas, volumen, canales"
+  },
+  "lessonIds": [
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 12
+ },
+ {
+  "moduleId": "patterns",
+  "title": {
+   "ru": "Фигуры на графике",
+   "en": "Chart patterns",
+   "pt": "Padrões gráficos",
+   "es": "Patrones gráficos"
+  },
+  "lessonIds": [
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 15
+ },
+ {
+  "moduleId": "trade_plan",
+  "title": {
+   "ru": "Сделка по плану",
+   "en": "Trading by plan",
+   "pt": "Operar com plano",
+   "es": "Operar con plan"
+  },
+  "lessonIds": [
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 15
+ },
+ {
+  "moduleId": "futures_risk",
+  "title": {
+   "ru": "Фьючерсы и риск",
+   "en": "Futures and risk",
+   "pt": "Futuros e risco",
+   "es": "Futuros y riesgo"
+  },
+  "lessonIds": [
+   47,
+   48,
+   49,
+   50,
+   51
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 12
+ },
+ {
+  "moduleId": "market_safety",
+  "title": {
+   "ru": "Рынок и безопасность",
+   "en": "Market and safety",
+   "pt": "Mercado e segurança",
+   "es": "Mercado y seguridad"
+  },
+  "lessonIds": [
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58
+  ],
+  "passPercent": 70,
+  "questionCount": 10,
+  "timeMin": 12
+ }
+]
